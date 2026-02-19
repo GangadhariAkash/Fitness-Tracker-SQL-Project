@@ -1,0 +1,1 @@
+# Fitness Tracker SQL Project 
